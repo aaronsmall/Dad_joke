@@ -4,6 +4,9 @@ import termcolor
 from random import choice
 
 
+"""THIS PROGRAM IS SILLY AND WILL MAKE YOU READ SILLY DAD JOKES """
+""""YOU HAVE BEEN WARNED"""
+
 class Joke(object):
 
     def main(self):
